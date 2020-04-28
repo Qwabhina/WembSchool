@@ -1,0 +1,80 @@
+@import './base.css';
+
+main {
+    align-items: flex-end;
+    justify-items: flex-end;
+    justify-content: flex-end;
+}
+
+#w_register-form { transform: translateY(3rem); }
+
+.error p{ 
+    transform: translateY(6rem); 
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.w_sideSection {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    vertical-align: middle !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+div.error button {
+    position: absolute;
+    margin: 0 auto;
+    left: calc(50% - 30px);
+    bottom: 30px !important;
+}
+
+div.error {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    padding: 8px 18px !important;
+    max-width: 100%;
+    height: auto;
+    z-index: 90;
+    display: none;
+}
+
+div.progress {
+    width: 100%;
+    height: 8px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin-top: 0px;
+    z-index: 89;
+    display: none;
+}
+
+.brand-logo img {
+    width: 220px;
+    margin-top: 10px;
+}
+
+
+/* Media Queries */
+@media (max-width: 993px) and (min-width: 701px) {
+    #w_register-form {
+        transform: translateY(5rem);
+    }
+}
+
+@media (max-width: 700px) {
+    #w_register-form {
+        transform: translateY(4rem);
+    }
+}
+
+@media (max-width: 500px) {}

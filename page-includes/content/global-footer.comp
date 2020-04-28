@@ -1,0 +1,24 @@
+
+    <!-- Page Footer -->
+    <footer class="page-footer layd_light-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 m6 s12">
+                    <h5 class="layd_dark-text layd_heading">Learn As You Do</h5>
+                    <span class="layd_dark-text">Digital Skills, At Your Fingertips!</span>
+                </div>
+                <div class="col l6 m6 s12">
+                    <ul class="layd_link-list">
+                        <li><a class="layd_dark-text" href="/us">About Us</a></li>
+                        <li><a class="layd_dark-text" target="_blank" href="/terms">Terms &amp; Conditions</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container layd_dark-text">
+                &copy; 2018 Learn As You Do
+                <a class="layd_dark-link right hide-on-small-only" href="/sitemap">Sitemap</a>
+            </div>
+        </div>
+    </footer>

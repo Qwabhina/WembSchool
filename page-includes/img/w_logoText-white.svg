@@ -1,0 +1,52 @@
+<svg id="Name" xmlns="http://www.w3.org/2000/svg" width="1275" height="350" viewBox="0 0 5100 1400">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 460px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Montserrat;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #fca700;
+      }
+
+      .cls-2, .cls-3 {
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        font-size: 160px;
+      }
+
+      .cls-4 {
+        fill: #fdcf60;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        fill: #002157;
+      }
+    </style>
+  </defs>
+  <text id="WembSchool" class="cls-1" x="1759.842" y="743">Wemb<tspan class="cls-2">School</tspan></text>
+  <text id="Online_Learning_Management_System" data-name="Online Learning Management System" class="cls-3" x="1738.213" y="1005.353">Online Learning Management System</text>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-4" x="1714" y="817" width="3022" height="19" rx="9.5" ry="9.5"/>
+  <path id="W" class="cls-5" d="M1138.74,703.57l-111.72,342.76L919.866,703.57H781.547L669.068,1043.29,561.908,703.57H406.87l172.518,532H740.507l106.4-323.762,101.84,323.762H1109.86l172.52-532H1138.74Z"/>
+  <g id="Cap">
+    <path class="cls-6" d="M389.589,756.61s145.482,5.63,249.286,38.709C761.907,834.527,851,897.511,851,897.511s101.709-67.491,210.58-102.192c100.52-32.04,250.83-38.709,250.83-38.709l-30.97-249.286L851,646.677l-430.444-140.9Z"/>
+    <path class="cls-5" d="M851,165.137L123.271,436.1,851,671.45,1578.73,436.1Z"/>
+    <path class="cls-6" d="M851,403.584V439.2l540.38,72.772L1397.57,744c-14.36,7.224-30.97,18.847-30.97,40.258,0,25.721,21.2,31.11,32.52,38.709,0,0-18.58,9.358-18.58,27.87,0,24.326-17.23,195.511-17.23,195.511s32.06-14.59,49.16,0c22.45,19.17,44.14,0,44.14,0s-18.78-180.415-18.78-195.511-17.03-27.745-17.03-27.745c11.66-8.074,30.96-13.589,30.96-38.834,0-21.464-16.89-32.918-30.96-40.258l7.74-261.336Z"/>
+    <path class="cls-7" d="M881.352,393.81c22.384,12.585,26.058,35.865,8.2,52s-50.472,19.008-72.856,6.423-26.057-35.866-8.2-52S858.968,381.225,881.352,393.81Z"/>
+  </g>
+</svg>

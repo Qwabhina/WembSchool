@@ -1,0 +1,115 @@
+@import './base.css';
+
+header,
+main,
+footer {
+    padding-left: 300px;
+}
+
+main { position: relative; }
+
+div.search-results {
+    display: none;
+}
+
+main .progress{
+    position: absolute;
+    height: 10px;
+    left: 0;
+    right: 0;
+    top: -10px;
+    z-index: 99 !important;
+    display: none;
+}
+
+div.search-resuslts {
+    display: none;
+}
+
+.collection p{ font-size: 14px; }
+
+.-panel{ padding: 1rem !important; }
+
+#notifications ul{ width: 95%; }
+
+nav .nav-wrapper a,
+nav ul li a {
+    color: #0d47a1;
+    font-size: 1.8rem;
+}
+
+a#logo-container img {
+    max-width: 4.2rem !important;
+    margin: 10px 0px -15px 0px;
+}
+
+nav {
+    height: 80px;
+    line-height: 80px;
+    cursor: default;
+}
+
+.user {
+    font-size: 1.2rem !important;
+}
+
+nav i,
+nav [class^="mdi-"],
+nav [class*="mdi-"],
+nav i.material-icons {
+    height: 80px;
+    line-height: 80px;
+}
+
+.sidenav-trigger {
+    cursor: pointer;
+}
+
+nav .button-collapse i {
+    height: 80px;
+    line-height: 80px;
+}
+
+nav .brand-logo {
+    font-size: 1.9rem;
+}
+
+.side-logo img{ 
+    width: 90%; 
+    transform: translate(1rem, 1rem);
+}
+
+.modal{
+    min-width: 65%!important;
+}
+
+.tabs .tab a{
+    color:#000;
+} /*Black color to the text*/
+
+.tabs .tab a:hover {
+    background-color:#eee;
+    color:#000;
+} /*Text color on hover*/
+
+.tabs .tab a.active {
+    background-color:#888;
+    color:#000;
+} /*Background and text color when a tab is active*/
+
+.tabs .indicator {
+    background-color:#000;
+} /*Color of underline*/
+
+
+@media only screen and (max-width: 992px) {
+    header,
+    main,
+    footer {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #notifications ul{ width: 100%; }
+}

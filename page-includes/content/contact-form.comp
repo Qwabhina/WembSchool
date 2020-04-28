@@ -1,0 +1,105 @@
+<div class="row">
+                    <div class="col l10 offset-l1 m10 offset-m1 s12 layd_section">
+
+                        <h2 class="layd_heading center">Let's Get Talking</h2>
+
+                        <div class="row">
+
+                            <div class="col l8 m10 s12 offset-l2 offset-m1">
+
+                                <div class="card hoverable">
+                                    <div class="card-content">
+                                        <!-- Progress Bar -->
+                                        <div class="progress center">
+                                            <div class="indeterminate"></div>
+                                        </div>
+
+                                        <div class="error layd_red-bg layd_light-text"></div>
+
+                                        <div class="row">
+                                            <div class="col m5 s12">
+                                                <div class="layd_section hide-on-small-only">
+                                                    <div class="section hide-on-med-and-down"></div>
+                                                </div>
+                                                <ul id="contact_numbers" class="layd_lime-text center">
+                                                    <li>
+                                                        <i class="material-icons">phone</i>
+                                                    </li>
+                                                    <li>
+                                                        <span>+233 24 205 8960</span>
+                                                    </li>
+                                                    <li>&nbsp;</li>
+                                                    <li>
+                                                        <i class="material-icons">mail_outline</i>
+                                                    </li>
+                                                    <li>
+                                                        <span style="display:block;">admin@learnasyoudo.ml</span>
+                                                        <span>hello@learnasyoudo.ml</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="section hide-on-med-and-up">
+                                                &nbsp;
+                                                <div class="divider layd_lime-bg"></div>
+                                            </div>
+                                            <div class="col m6 s12">
+
+                                                <form method="post" name="contact-form" id="contact-form">
+                                                    <div class="row">
+                                                        <div class="col s12">
+
+                                                            <div class='row'>
+                                                                <!-- Full Name -->
+                                                                <div class='input-field col m6 s10 offset-s1'>
+                                                                    <i class="material-icons prefix layd_lime-text">person</i>
+                                                                    <input class='validate' type='text' name='full-name' id='full-name' required />
+                                                                    <label for='full-name'>Full Name</label>
+                                                                </div>
+                                                                <!-- Subject -->
+                                                                <div class='input-field col m6 s10 offset-s1'>
+                                                                    <i class="material-icons prefix layd_lime-text">edit</i>
+                                                                    <input class='validate' type='text' name='contact-subject' id='contact-subject' required />
+                                                                    <label for='contact-subject'>Subject</label>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <!-- Email -->
+                                                                <div class="input-field col m12 s10 offset-s1">
+                                                                    <i class="material-icons prefix layd_lime-text">mail</i>
+                                                                    <input type="email" class="validate" name="user-email-c" id="user-email-c" required />
+                                                                    <label for="user-email-c">Email</label>
+                                                                </div>
+                                                            </div>
+
+                                                            <!-- Message -->
+                                                            <div class='row'>
+
+                                                                <div class="input-field col m12 s10 offset-s1">
+                                                                    <i class="material-icons prefix layd_lime-text">chat</i>
+                                                                    <textarea id="contact-message" class="materialize-textarea" maxlength='200' data-length='200'></textarea>
+                                                                    <label for="contact-message">Your Message</label>
+                                                                </div>
+
+                                                            </div>
+
+                                                            <div class='row'>
+                                                                <button type='submit' id="cntct_btn" name='btn_contact' class='col offset-m4 offset-s3 m4 s6 layd_btn btn-large waves-effect layd_grad layd_light-text'>
+                                                                    <big>Send</big>
+                                                                </button>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>

@@ -1,0 +1,147 @@
+<header class="layd_header">
+
+        <div class="navbar-fixed layd_transparent">
+            <nav class="layd_transparent z-depth-0">
+                <div class="nav-wrapper">
+                    <div class="container-fluid">
+                        <div class="row">
+
+                            <div class="col l10 offset-l1">
+                                <a id="logo-container" class="brand-logo">
+                                    <div class="hide-on-med-and-down left layd_heading">Learn As You Do</div>
+                                    <img class="hide-on-large-only center" width="80px" src="/page-includes/img/ktu_logo_small.svg">
+                                </a>
+
+                                <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">apps</i></a>
+
+
+                                <ul id="menu" class="right hide-on-med-and-down">
+
+                                    <li>
+                                        <a class='dropdown-trigger right' href='#' data-target='learn'>
+                                            <i class="material-icons left">school</i>
+                                            Learn
+                                        </a>
+
+
+                                        <ul id='learn' class='dropdown-content'>
+                                            <li>
+                                                <a href="/members/courses/?filter_type=available+only&category=tutorials&ref=header&clk_source=_">
+                                                    <i class="material-icons left">local_library</i>
+                                                    Tutorials
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/members/courses/?filter_type=available+only&category=tips&ref=header&clk_source=_">
+                                                    <i class="material-icons left">feedback</i>
+                                                    Tips
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li>|</li>
+
+                                    <li>
+                                        <a class='dropdown-trigger right' href='#' data-target='members'>
+                                            <i class="material-icons right">people</i>
+                                            Members
+                                        </a>
+
+
+                                        <ul id='members' class='dropdown-content'>
+                                            <li>
+                                                <a href="#layd_join-section" class="smooth">
+                                                    <i class="material-icons left">perm_identity</i>
+                                                    Join Us
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/members/login/?continue=dashboard&ref=header&clk_source=_">
+                                                    <i class="material-icons left">exit_to_app</i>
+                                                    Sign In
+                                                </a>
+                                            </li>
+                                        </ul>
+
+                                    </li>
+
+                                    <li>|</li>
+
+                                    <li>
+                                        <a href="#layd_contact-section" class="right smooth">
+                                            <i class="material-icons">phone</i>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+
+        <ul class="sidenav layd_dark-bg" id="mobile-demo">
+            <h4 class="center layd_heading layd_green-bg layd_light-text">
+                Learn As<br>You Do
+            </h4>
+
+            <li style="margin-top: 30px;">
+                <a href="#layd_join-section" class="layd_light-text smooth"><i class="material-icons right layd_green-text">person</i>Join Us</a>
+            </li>
+            <li>
+                <a href="/members/login/?continue=dashboard&ref=menu&clk_source=mobile" class="layd_light-text"><i class="material-icons right layd_green-text">exit_to_app</i>Sign In</a>
+            </li>
+            <div class="divider layd_green-bg"></div>
+            <li style="margin-top: 10px;">
+                <a href="/members/courses/?filter_type=available+only&category=tutorials&ref=header&clk_source=_" class="layd_light-text"><i class="material-icons right layd_green-text">local_library</i>Tutorials</a>
+            </li>
+            <li>
+                <a href="/members/courses/?filter_type=available+only&category=tips&ref=header&clk_source=_" class="layd_light-text"><i class="material-icons right layd_green-text">feedback</i>Tips</a>
+            </li>
+
+        </ul>
+
+
+        <div class="layd_section col layd_light-text" id="layd_jumbo-section">
+            <h2 class="layd_heading hide-on-med-and-down right-align">Learn How to Create <br>Your Own Website <br><span class="layd_content-sans layd_light-link">in one week!</span></h2>
+
+            <h3 class="layd_heading hide-on-small-only hide-on-large-only">Learn How to Create <br>Your Own Website <br><span class="layd_content-sans layd_light-link">in one week!</span></h3>
+            <br>
+
+            <div class="col flow-text">
+                Join an interractive class that aids you to learn the basics of building and getting your own customised website online with no prior knowledge of any computer language!
+            </div>
+
+            <div class="layd_section">
+                <br>
+                <div class="center col s12">
+                    <a id="enroll-btn" href="#layd_prog-details-section" class="smooth hide-on-small-only center btn-large layd_btn layd_green-text layd_light-bg">Learn More <i class="c_i material-icons right">expand_more</i></a>
+                    <a id="enroll-btn" href="#layd_prog-details-section" class="smooth hide-on-med-and-up center btn-large layd_btn layd_green-text layd_light-bg">Learn More</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="layd_fab-btn">
+            <div id="dwnd">
+                <div class="fixed-action-btn hide-on-small-only">
+                    <a class="btn-floating btn-large layd_btn-fab waves-effect waves-dark layd_light-bg"><i class="material-icons layd_dark-text">arrow_downward</i></a>
+                </div>
+            </div>
+            <div id="upwd">
+                <div class="fixed-action-btn">
+                    <a class="btn-floating btn-large layd_btn-fab waves-effect waves-dark layd_green-bg"><i class="material-icons layd_light-text">arrow_upward</i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="layd_fullscreen-video">
+            <video src="/page-includes/video/coding-scenes-9a2031e8142b40bdb5d936d5eef33dfa.mp4" autoplay loop muted></video>
+        </div>
+
+        <div class="layd_header-bg"></div>
+
+    </header>

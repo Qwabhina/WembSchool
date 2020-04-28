@@ -1,0 +1,57 @@
+<!-- Page Metadata -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="theme-color" content="#008C50">
+    <meta name="author" content="Webbing Creatives">
+    <meta name="keywords" content="Webbing, creatives, software, technology, desktop apps, company, tech">
+    <meta name="description" content="Webbing Creatives is an Information Technology firm that seeks to address the many software problems around us with very simple, yet powerful and creative familiar technologies.">
+    
+    
+    <!-- Page Icons -->
+    <link rel="shortcut icon" href="/page-includes/icons/icon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="/page-includes/icons/icon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="/page-includes/icons/icon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="/page-includes/icons/icon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/page-includes/icons/icon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/page-includes/icons/icon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/page-includes/icons/icon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/page-includes/icons/icon-16.png">
+    <link rel="apple-touch-icon" href="/page-includes/icons/icon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/page-includes/icons/icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/page-includes/icons/icon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/page-includes/icons/icon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/page-includes/icons/icon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/page-includes/icons/icon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/page-includes/icons/icon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/page-includes/icons/icon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/page-includes/icons/icon-180.png">
+    <meta name="msapplication-TileColor" content="#E1E1E1">
+    <meta name="msapplication-TileImage" content="/page-includes/icons/icon-144.png">
+    <meta name="msapplication-config" content="/page-includes/icons/browserconfig.xml">
+    
+    
+    
+    <!-- Social Media -->
+    <!--meta property="fb:app_id" content="212500508799908" />
+        <meta property="fb:profile_id" content="codecademy" /-->
+    <meta property="og:url" content="http://www.learnasyoudo.ml" />
+    <meta property="og:site_name" content="Learn As You Do" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Digital Skills, At Your Fingertips! | Learn As You Do" />
+    <meta property="og:description" content="Learn new [digital] skills as you engage in various interractive courses online." />
+    <meta property="og:rich_attachment" content="true" />
+    <meta property="og:image" content="/page-includes/icons/icon-310.png" />
+
+    <meta itemprop="name" content="Digital Skills, At Your Fingertips! | Learn As You Do" />
+    <meta itemprop="description" content="Learn new [digital] skills as you engage in various interractive courses online." />
+    <meta itemprop="image" content="/page-includes/icons/icon-310.png" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
